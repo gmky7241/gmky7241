@@ -58,4 +58,3 @@ EDUCATION
 University of Cincinnati, Cincinnati, OH Master of Science in Information Technology Relevant Coursework: Tech for Mobile application, DSA, Cloud Computing, Machine Learning, Cybersecurity
 Jan 2024 – May 2025
 GPA: 4.0/4.0
-
