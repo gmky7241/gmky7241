@@ -2,6 +2,7 @@
 
 Software Developer with over 2+years in building high-performance web applications using React.js, Node.js, Vue.js, and AWS.Passionate about leveraging emerging technologies like machine learning, cloud computing, and modern web frameworks to solve real-world problems. Strong collaborative mindset with experience in cross-functional teams, legacy system modernization, and mentoring junior developers. Recently graduated with a Master’s in Information Technology and currently seeking full-time roles in full-stack orcloud-native development.
 
+
 TECHNICAL SKILLS
 Languages: Python, JavaScript, TypeScript, SQL, J2E, JSE, C
 Frontend: React.js, Vue.js, Next.js, Redux
